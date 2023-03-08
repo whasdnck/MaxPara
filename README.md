@@ -19,7 +19,7 @@ public class MaxPara {
 	public static void main(String[] args) {
 
 		System.out.println("maxpara(10,9,8)" + maxpara(10,9,8));
-		System.out.println("maxpara(10,9,8)" + maxpara(5,15,2));
+		System.out.println("maxpara(5,15,2)" + maxpara(5,15,2));
 	}
 
 }
